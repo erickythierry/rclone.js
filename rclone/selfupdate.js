@@ -18,6 +18,8 @@ switch (platform) {
     platform = "solaris";
   case "win32":
     platform = "windows";
+  case "android":
+    platform = 'linux'
   default:
     break;
 }
