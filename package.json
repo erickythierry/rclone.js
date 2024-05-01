@@ -43,7 +43,8 @@
     "linux",
     "openbsd",
     "sunos",
-    "win32"
+    "win32",
+    "android"
   ],
   "cpu": [
     "arm",
